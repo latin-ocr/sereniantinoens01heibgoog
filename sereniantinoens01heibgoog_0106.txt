@@ -1,0 +1,30 @@
+⁴ DE SECTIONE OYLINDRI. 81
+
+aequale rectae ΒΚ adpliouerimus figura quadrata
+excedens, latus excessus erit > KZ, sed < KH,
+propter propositionem praecedentem [prop. XXV} sit
+igitur Κ A latus excessus, et per A rectae ΗΓ parallelo
+
+'dueatur AM, ducanturque ΜΒ, ΜΚ, et fingatur
+
+conus, ouius uertex sit punctum M, basis autam A
+circulus et triangulus per axem positus BKM.
+itaque si etiam oonum eo plano sectum finxerimus, a
+quo effecta est diametrus sectionis cylindri EA, in
+eono quoque erit sectio, ouius diametrus N Ξ. quoniam
+igitur quadrato ΚΗ2 aequale ad ΒΚ adplicatum est
+spatium quadrato K Λ2 excedens, erit BA >< A K = K H ².
+iam quoniam AB, ΚΓ inter se parallelae sunt,
+parallelae autem etiam A Z, ΜΛ, ΓΗ, erit
+AZ:ZB=FH:HK[E1101.I,29; VI,4];
+quare etiam
+ΔΖῚεΖΒῖ--ΓΗῖεΚΗῚεΜΛΞιΒΛΧΛΚ.
+uerum Az222132== ΙῠΛΚεΒΚ2 [llud. VI, 23 V, 18]
+,siue quadratum diametri ellipsis cylindri· EA ad
+quadratum diametri coniugatae [prop. IX extat, et
+'ut MA : BA >< ΛΚ, ita quadratum diamant,
+
+soranus Antinoensir, ed. Heibsrg. l)
+
+ 
+

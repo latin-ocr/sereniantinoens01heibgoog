@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sereniantinoens01heibgoog_0003.png"; bbox 0 0 756 1085; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 468 760 569 770">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 468 760 569 770">
+     <span class='ocr_line' id='line_1_1' title="bbox 468 760 569 770; baseline -0.02 0"><span class='ocrx_word' id='word_1_1' title='bbox 468 761 481 764; x_wconf 89' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 490 760 569 770; x_wconf 35' lang='lat' dir='ltr'>“a</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 180 784 574 802">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 180 784 574 802">
+     <span class='ocr_line' id='line_1_2' title="bbox 180 784 574 802; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 180 785 252 801; x_wconf 66' lang='lat' dir='ltr'>mmm)</span> <span class='ocrx_word' id='word_1_4' title='bbox 255 784 366 802; x_wconf 54' lang='lat' dir='ltr'>-QWORD</span> <span class='ocrx_word' id='word_1_5' title='bbox 368 784 574 801; x_wconf 65' lang='lat' dir='ltr'><strong>MOEVMVERSHY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 108 66 637 914">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 108 66 637 914">
+     <span class='ocr_line' id='line_1_3' title="bbox 108 66 637 914; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 108 66 637 914; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

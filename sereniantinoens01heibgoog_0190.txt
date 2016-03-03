@@ -1,0 +1,35 @@
+ua secamur cour. 163*
+
+mutando AB : ΓΛ > ΕΒ : ΖΛ [Pappus VH, 47]. el
+AB = ΓΛ; itaque ΕΒ < ΖΛ. uerum ΖΛ non maior
+est quam ΓΖ; itaque etiam ER < ΓΖ. erat autem
+eliam ΕΒ < AE3 minima igitur est ΕΒ. rursus
+quoniam AB = ΓΛ, quarum ΕΒ < Δ Ζ , quae relin-
+quitur EA maior erit quam quae relinquitur ΓΖ.
+uerum ΓΖ nen minor est quam ZA3 itaque etiam
+ΑΕ > ΖΛ. erat autem etiam ΑΕ > EB3 ergo AE
+maxima esl, minima autem ER.¹
+
+XX.
+
+si duo trianguli bases aequales habeut, habeut
+autem etiam rectas a uertice ad punctum medium
+basis ductas aequales, alterius autem maius lalus ad
+minus maiorem rationem habet quam reliqui latus
+maius ad minus uel aequale ad aequale, triangulus,
+euius latus maius ad minus rationem habet maiorem,
+minor est.
+
+sint due trianguli ΑΒΓ, ΔΕΖ bases ΒΓ, ΕΖ
+aequales habentes, quarum utraque in punctis Η, Θ
+
+in binas partes aequales secetur, et ductae ΑΗ, A Θ
+aequales sint3 sit aulem EA > Δ Ζ, BA autem non
+
+22. καὶ Θ σημεῖα] (up. 23. lura ‹le'l luraque e, Ἃ. μὴ
+
+οὐκ p.
+XX*
+
+ 
+

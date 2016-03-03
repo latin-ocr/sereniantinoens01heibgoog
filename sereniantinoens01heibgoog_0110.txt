@@ -1,0 +1,38 @@
+,DE SEGTIONE CYLINDRI. 85
+
+ducanturque ΕΓ, ΓΖ; itaque EF= ΖΓ [Euol. Ι, 4].
+si igitur ita, ut traditum est, plana per ΓΕ, ΓΖ
+duxerimus, cylindrum secabunt. secent efficiantque
+ellipses ΕΗΓ, ΖΘΓ. dico, eas similes esse.
+quomam emm
+ΕΓ2 : ΓΑ2
+= 21⁶² τ PA²
+[Eucl. V, Π, et
+ΕΓ2 : ΓΑ2 est
+ratio quadrati dia-
+metri sectionis
+ΕΓ ad quadra-
+tum diametri curn
+
+η autem quadrati
+diametri sectionis ΖΓ ad quadratum diametri cumea
+coniugatae [prop. IX extr.], erit etiam, ut diametrus
+ΕΓ ad diametrum curn ea coniugatam, ita ΖΓ dia-
+metrus ad diametrum cum ea coniugatam. uerum
+etiam ad aequales angulos diametri in utraque secantur,
+ut saepe demonstratum est. ergo ellipses ΕΗΓ, ΖΘΓ
+inter se similes sunt [def. 8].
+
+et etiarn7 si alias rectas aequales ad utramque
+partem puncti A absumpseris7 rursus aliae duae ellipses
+inter se similes construentur.
+
+notandum autern, in cylindro ellipses ex cadem
+parte similes necessario ctiam aequales esse, quia ratio
+diametrorum ad eandem rectam AF eadem est.
+
+ἑκατέρᾳ] ἑκάτεραι ch. 23. Post ἀλλήλαις add. nul. actuo
+ἐνί ἄπειρον p, 25. dccl] ch, -ol enan. ll. ³-
+
+ 
+

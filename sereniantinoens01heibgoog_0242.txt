@@ -1,0 +1,50 @@
+nn suerrona cour. 217
+
+itaque [ΑΒΗ unc recto minor est3 reliqui igitur
+ΑΒΑ -Ι- ΑΒΗ maiores sunt tribus rectis. uerum
+[ΑΒΗ-ε ΑΓΛ; itaque [ΑΓΛ -l- ΑΒΔ tribus
+rectis maiores sunt. auferatur rectus [Α Β Γ;
+Α ΓΔ -l- ΓΒΛ igitur duobus rectis maiores sunt.
+quoniam igitur [Β ΓΛ -l- A ΓΒ -l- ΓΒΔ duobus rectis
+maiores sunt, ΒΓΑ -Ι- ΓΛ Β † ΓΒΛ autem duobus
+rectis aequales [Eucl. Ι, 32], erit [ΑΓΒ > ΓΑΒ.
+
+XL.
+
+’ si in cono scaleno per uerticem planis compluribus
+secto in basibus parallelis trianguli aequicrurii ad eam
+partem uersus construuntur, a qua axis reclinatus est,
+,triangulus aequicrurius per axem ductus triangulorum
+aequicruriorum‚ uti diximus, constructorum neque em-
+nium maximus est neque minimus omnium.
+
+sit conus, cuius axis
+
+sit A B, basis autem
+
+circulus circum Β cen-
+
+trum descriptus, com·
+
+A munis autem sectio plani
+
+per axem ad circulum
+
+perpendicularis circuli-
+
+que sit ΓΒΑ, et [ΑΒΔ
+
+minor sit recte. dice,
+
+triangulum aequicru-
+
+rium per axem ductum triangulorum aequicruriorum,
+qui bases inter puncta Γ, Β habentes construantur, ¹
+
+neque maximum esse omnium neque minimum.
+
+axis igitur aut minor est radio basis aut ei aequalis
+aut maior. ι.
+
+ 
+

@@ -1,0 +1,41 @@
+nn sncncun coni. 265
+
+maioris, quattuor parinum maxima erit pars maior
+minoris , minima aulem minor.
+sini duae reciae inaequales ΑΒΓ, ΔΕΖ in
+punciis Β, E iia diuisae, ui sii ΛΕ > ΕΖ, ΑΒ autem
+non minor quam ΒΓ, sitque AF> ΔΖ el
+AB² -l ΒΓ2 = ΑΒ2 -l EZ2.
+dico, quattuor rectarum AB, ΒΓ, ΔΕ, ΕΖ maximam
+esse ΛΕ, minimam autem EZ.
+ducatur ad AF perpendicularis ΒΗ = ΒΓ, duca-
+turque AH, ei circum triangulum rectangulum ΑΒΗ
+describatur semicir-
+culus [Eucl. ΠΙ, 31].
+quoniam igitur recta
+AB non minor esi
+quam ΒΗ, eiiam
+arcus AB non mi-
+
+E nor esi quam ΒΗ
+[cfr. Eucl. ΙΙΙ, 28],
+
+Ζ punctum igitur me-
+dium arcus AB H
+
+aui in Β erit aui
+in arcu ΑΒ, uelut in Θ. itaque circulus centro
+puncto medic, radio aulem alieruiro A, Η descriptus
+eiiam per Γ ueniet, ui antea demonsiraium esi [prop.
+LII]; describatur igitur et sii ΑΚΓΗ. quoniam igi-
+tur AZ²> ΑΒ2 -Ι- Ez² [Eucl Π, 4] ei
+
+ΛΕ2 -Ι- ΒΖ2 = AH2 [Eucl. Ι, 47],
+
+erit etiam Az²>AH23 quare AZ>AH. uerum
+ΔΖ <ΑΓ; iiaque fieri polest, ui inter rectas ΑΓ,
+ΑΗ in circulum ΑΚΓΗ recia inseratur reciae Δ Ζ
+aequalis. inseratur ΑΛΜ, ducaluiuue Alth unauna
+
+ 
+

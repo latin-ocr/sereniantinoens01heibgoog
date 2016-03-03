@@ -1,0 +1,47 @@
+nn snorioun crimuni. 103
+
+rursus ex altera parte 'contactus in P, Σ fieri et in
+una recta rectae EA parallela positos esse. ergo
+omnes rectae contingentes per latera unius parallelo-
+grammi contingunt, quod erat propositum.
+
+XXX.
+Hoc demonstrato sit parallelogrammum ΑΒΓΔ,
+
+et basi eius AB parallelae ducantur E Z, ΗΘ,
+sumaturque punctum aliquod K in plano parallelo·
+grammi non positum, et
+
+ductae E, KZ, KH, ΚΘ
+
+Ξ produc ae cum plano aliquo
+
+concurrant plano ΑΒΓΔ
+
+parallelo in punctis A, M,
+
+N, Ξ. itaque planum per
+
+KA, ΕΖ rectas ductum
+
+etiam planum A M N Ξ
+
+secabit efficietque in eo
+
+communem sectionem AM
+
+rectam rectae EZ parallelum [Eucl. XI, 16]; et eodem
+modo etiam planum per rectas KN, ΗΘ ductum
+efficiet N Ξ rectae ΗΘ parallelam. quoniam igitur
+triangulus ΑΚΝ a planis parallelis ΑΒΓΔ, AN ΞΜ
+secatur, communes eorum sectiones parallelae sunt
+[Eucl. XI, 16]‚ h. e. NA et HE3 eadem de causa
+autem etiarn ΞΜ rectae ΘΖ parallelo. quare
+[Euol. V1‚2; V, 18] EKzKA=HK :KN. estantem
+HK2KN=Ho2NE et EKzKA=EZzAM
+[Euol. VI, 4]; quare etiarn ΕΖεΑΜ---ΗΘεΝΞΙ
+et permutando [Eucl. V, 16], et ΕΖ == H Θ; itaque
+etiam AM == N Ξ. uerum eaedem paraKKeKae sun}
+
+ 
+

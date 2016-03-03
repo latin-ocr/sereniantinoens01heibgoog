@@ -1,0 +1,38 @@
+na sucmoua coru. 207
+XXXVI.
+
+Si in cono scaleno per uerticem planis compluri-
+bus secto in basibus parallelis trianguli aequicrurii
+ad eam partem uersus construamur, a qua axis recli-
+natus est, triangulus aequicrurius per axem ductus
+minimus non· erit omnium aequicruriorum construu-
+torum.
+
+sit conus scalenus, cuius axis sit AB, communis
+autem sectio plani per axem ad circulum perpendicu-
+laris circulique diametrus ΓΒΔ, et [ΑΒΔ minor
+
+sit recto. dico, triangu-
+lum aequicrurium per axem
+ductum minimum non esse
+omnium aequicruriorum,qui
+construantur bases inter
+puncta Γ, Β habentes.
+ducatur enim Ar, et
+in triangulo ΑΒΓ ad ΓΔ
+perpendicularis ducatur ΒΕ.
+A et quoniam ΓΕ > ΓΒ,
+quae e centro ducta est
+[Eucl. Ι, 19], sit ΕΖ radio
+aequalis, et rectae ΕΒ par-
+allela ZH, duceturque ΛΜΗ
+et rectae ΖΕ parallela H Θ; parallelogrammum igitur
+est ΖΘ. quare ΖΕ == ΗΘ [nuel.1‚34]3 H Θ igitur radio
+aequalis est. iam rursus in plano circuli ad ΓΔ per-
+pendiculares ducantur KB, HA, duceturque BA.
+quoniam igitur duo trianguli rectanguli ΕΗΒ, ΛΒΗ
+aequales habent angulos rectos, circum ulios autem
+latera proportionalia, et cetera, quae *aare prola*
+
+ 
+

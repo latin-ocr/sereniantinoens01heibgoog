@@ -1,0 +1,49 @@
+DE SECTIONE CONI. 157
+
+eam ceteris quoque maiorem esse3 itaque Α Γ maxima
+est omnium rectarum, quae in cono ducuntur, uti
+’ diximus. eodem autem modo demonstrari potest, ΑΛ
+minimam esse et ceterarum ΑΕ > Α Ζ, Α Ζ > ΑΗ,
+semperque propiorem rectae Α Γ remotiore maiorem
+esse3quod erat demonstrandum.
+
+XVII.
+
+Si in triangulo a uertice ad puuctum medium
+basis recta ducitur, quadrata laterum aequalia sunt
+quadratis partium basis et duplo quadrato rectae a -
+uertice ad basim ductae.
+
+sit triangulus A BP, cuius basis in Δ in duas
+
+partes aequales secetur, duceturque ΑΛ. dico, csse
+ΑΒ2 -Ι- ΑΓ2 -- ΒΔ2 -Ι- ΛΓ2 -Ι,- 2‘AA2.
+
+Ἰ iam si triangulus ΑΒΓ aequicrurius est, demon-
+stratio manifesta est, quia uterque angulus ad Δ po·
+situs rectus fit.
+
+iam uero sit BA > ΑΓ; ita-
+
+que eciam1) [ΒΔΑ > ΑΛΓ
+
+[Eu01.1‚25]. producatur ΑΛ,
+
+εὴ ad eam perpendiculares du·
+
+cantur BE, I'Z3 itaque tri·
+
+anguli rectanguli ΕΒΔ, ΓΖΛ
+
+similes sunt, quia BE, ΖΓ parallelae sunc2); itaque
+[Eucl. VI, 4] ΒΔ : ΛΓ-- ΕΛεΔΖ. υθηιηΒΛ-τΓΛς
+itaque etiam ΕΛ -- ΔΖ εὴ ΑΛ >< ΔΕ --ΑΛ >< ΔΖ
+ct 2AA >< ΔΕ = 2AA >< ΛΖ. quoniam igitur
+
+H. e. [ΒΔΑ obtusus est, [ΑΔΓ acutus.
+
+b b ii Immo quia et rectos angulos et angulos ad Δ ‘aequataed
+a err, ¹*
+
+ 
+

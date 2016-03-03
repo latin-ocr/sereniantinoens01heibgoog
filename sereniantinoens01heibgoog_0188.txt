@@ -1,0 +1,37 @@
+1111111011111111. . 163
+
+mutando AB : ΓΛ > ΕΒ : ΖΔ [Pappus VH, 47]. 11
+ΑΒ = ΓΛ; itaque ΕΒ < ΖΛ. uerum ΖΛ nen maior
+est quam FZ3 itaque etiam ΕΒ < ΓΖ. erat autem
+etiam ER< AE3 minima igitur est ΕΒ. rursus
+queniam AB = ΓΔ, quarum ΕΒ < ΛΖ, quae relin-
+quitur EA maior erit quam quae relinquitur ΓΖ.
+uerum ΓΖ non minor est quam ZA3 itaque etiam
+ἈΕ > ΖΛ. 1111 autem etiam ΑΕ > EB3 erge ΑΕ
+maxima est, minima autem EB.v
+
+XX.
+
+si duo trianguli bases aequales habent, habent
+autem etiam rectas 1 uertice ad punctum medium
+basis ductas aequaleS, alterius autem maius latus ad
+minus maiorem rationem habet quam reliqui latus
+maius ad minus uel aequale ad aequale, triangulus
+euius latus maius ad minus rationem habet maiorem,
+minor est.
+
+sint duo trianguli ΑΒΓ, ΔΕΖ bases BF, ΕΖ
+aequales habentes, quarum utraque in punctis Η, Θ
+
+in binas partes aequales secetur, et ductae ΑΗ, ΔΘ
+aequales sint3 sit autem EA > Λ Ζ, BA autem non
+
+22. nul Θ σημεῖα] Θ p. 23. leva 111Ῑέ1111111. 11. affl
+
+οὐκ p.
+*A*
+
+1
+
+ 
+

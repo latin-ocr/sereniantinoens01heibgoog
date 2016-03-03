@@ -1,0 +1,40 @@
+nn sacriora crnnunu. 23
+
+[Eucl. XI def. 4]. ducatur per Θ rectae AB parallela
+ΚΘΛ, etad rectam AB perpendicularis ponatur MN,
+per ΖΘ, K Λ autem ducatur planum sectionem efficiens
+KZA. quoniam igitur MN perpendicularis est ad
+AB communem planorum sectionem in plano basis
+positam, MN ad planum ΑΔ perpendicularis cst
+[Eucl. XI def. 4]; iaque ΖΘ, ΜΝ parallelae sunt
+[llucl. X1,6]. uerum etiam KA, AB parallelae sunt
+[Eucl. Xl, 16]3 quare etiam plana per eas ducta
+[Eucl. XI, 15]. Itaque sectio K ΖΛ basi parallelo est3
+sectio ΚΖΛ igitur circulus est [prop. V] diametrus
+autem circuli est ΚΛ et ad ΚΛ perpendicularis ΖΘ,
+itaque erit ΚΘ >< ΘΛ = Ml. ueruml
+uoqu=Ko><oA;
+nam ΕΘ = ΘΚ, ΗΘ = ΘΛ [Eucl. Ι, 5]‚ quia anguli
+ad bases ΕΚ, ΛΗ positi aequales sunt3 quare etiam
+ΖΘ = ΕΘ >< ΘΗ.
+
+et ΖΘ ad ΕΗ perpendicularis est. similiter autem
+etiam, si aliam rectae ΖΘ parallelam ad ΕΗ duxerimus,
+quadrata aequalis erit rectangulo partibus rectae EH,
+quas efficit, comprehens03 ergo sectio ΕΖΗ circulus
+est, cuius diametrus est recta ΕΘΗ [prop. IV].
+
+VII.
+
+Dato in superficie cylindri puncto aliquo per
+punctum illud latus cylindri ducere.
+
+sit cylindrus, cuius bases sint circuli A, Β, axis
+autem AB recta, punctum autem in superficie datum
+Γ, et oporteat per Γ latus cylindri ducere.
+
+ducatur a puncto Γ ad AB perpendicularis ΓΔ,
+et per rectas AB, ΓΔ planum ducatur opimum!
+
+ 
+

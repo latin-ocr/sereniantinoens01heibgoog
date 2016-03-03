@@ -1,0 +1,37 @@
+-DE sacriora OYLINDRI. 39
+
+et cylindrus secetur, ut diximus, plano sectionem
+efficienti ΕΖΗ Θ, ita ut concurrentibus sectione
+ΕΖΗΘ planoque
+basis ΑΓ commu-
+nis sectio ΚΛ ad
+rectam ΓΑΛ sit
+perpendicularis, et
+a sectione ΕΖΗ
+recta aliqua duea-
+tur ZM rectae ΚΛ
+parallelo producta-
+que ad alteram par-
+tem superficiei ter-
+minetur iu Θ. dico,
+rectam ZM in EH cadere, et esse ZM = ΜΘ.
+quoniam enim in sectione ΕΖΗ rectae K Λ
+parallelo ducta est ZM, intra parallelogrammum ΓΛ
+cadit [prop. xl] et quoniam recta ZM posita est in
+plano ΕΖΗΘ, et ΕΗ eius parallelogrammique ΓΛ
+eommunis est sectio, ZM in ΕΗ cadit.
+esse autem ZM= M Θ, et ipsum per propositionem
+praecedentem manifestum est.
+reliquum est, ut demonstremur, rectam ΚΛ ad
+ΕΗΛ perpendicularem esse, si cylindrus rectus sit
+aut ΓΔ ad basim cylindri perpendiculare. quoniam
+enim planum ΓΛ ad planum basis perpendiculare est,
+et ad ΓΑΛ communem eorum sectionem perpen·.
+dieularis est ΚΛ in plano basis posita, etiam ad
+reliquum planum parallelogrammi ΓΛ perpendicularis
+
+est [Eucl. XI def. 4}
+sin ΓΔ ad basim perpendiculare non est, uon
+
+ 
+

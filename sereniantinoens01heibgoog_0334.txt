@@ -1,0 +1,15 @@
+DE SECTIONE CONI. 303
+
+itaque etiam ΚΘΕΖεΒΘΕΖ -- ΑΓΔῖεΚΕΖἾ.
+uerum etiam propter albitudines aequales
+
+ΑΗΓΛ : ΚΘΕΖ = ΑΓΔ2 : ΚΕΖ2 [prop. Lxss];
+itaque ΑΗΓΔ : ΚΘΕΖ = ΚΘΕΖ : ΒΘΕΖ. ergo
+[Eucl. V def. 9]
+
+ΑΗΓΔ : ΒΘΕΖ = AHFA2: ΚΘΕΖ2
+-· [Eucl. XII, 11] Η2 : Θῆ
+quod erat demonstrandum.
+
+ 
+

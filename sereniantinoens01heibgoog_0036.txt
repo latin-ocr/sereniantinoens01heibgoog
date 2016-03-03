@@ -1,0 +1,40 @@
+DE SECTIONE CYLINDRI. 11
+
+sit cylindrus, cuius bases sint circuli circum
+A, B centra descripti, axis autem recta AB, et per
+AB planum ducatur
+
+cylindrum secans, ef-
+
+Μ, ficiet igitur in circulis
+Ι-Ιβ rectas ΓΛ, ΕΖ, quae
+
+A Ζ diametrisunt‚ in super-
+ficie autem cylindri
+lineas ΕΗΓ, ΖΛ. dico, utramque lineam ΕΗ Γ, A Z
+rectam esse.
+nam si fieri potest, ne sint rectae, ducaturque ,
+recta E ΘΓ. quoniam igitur linea ΕΗΓ et recta ΕΘΓ
+in plano EA positae suntin punctis Ε, Γ concurrentes,
+et linea ΕΗΓ in superficie cylindri posita est, recta
+ΕΘΓ in superficie cylindri posita non est. quoniam
+igitur circuli A, B et aequales et paralleli sunt se-
+canturque a plano EA, communes eorum sectiones
+parallelae sunt[llucl.XI,16]. uerum etiam aequales
+sunt, sunt enim aequalium circulorum diametri. ita-
+que si manentibus punctis A, B diametros A Γ, ΒΕ
+finxerimus rectam ΕΘΓ per circulos A, B circumagentes
+ct rursus restitutas, recta ΕΘΓ superficiem cylindri
+describet [def. ll, et punctum Θ in superficie erit. at
+extra positum erat; quod fieri non potest. itaque
+ΕΗΓ recta est. similiter autem etiam ZA. et
+rectas EZ, ΓΛ aequales et parallelas iungunt. ergo
+EA parallelogrammum est [Eucl. Ι, 33]; quod erat
+demonstrandum. “
+
+ἐπιζευγνυούσης v. 24. EZ, PA] ΓΔ, ΕΖ p. EA] ΓΖ p.
+25. ὅπερ ἔδει] om. p. δεῖξαι] vc, ξαι V, om. q. Qec„
+ἑξῆς τὸ σχῆμα Vv (fig. in mg. est).
+
+ 
+

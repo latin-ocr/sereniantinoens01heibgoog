@@ -1,0 +1,41 @@
+DE SEGTIONE CYLINDRI. 15
+
+01 BK ad KZ perpendicularis esl3 itaque eiiam ΑΛ
+ad A Θ perpendicularis 001. 01 suni aequales3 itaque
+eiiam ΕΖ, ΗΘ aequales sunl [Eucl. ΠΙ, 14]; uerum
+eiiam parallelae [Eucl. ΧΙ, 16]. 01 quoniam BZ, A Θ
+parallelae suni [id.]‚ planum per ΒΖ axemque ductum
+etiam per A Θ ueniet sectionemque efficiet parallelo·
+grammum, 01 latus eius 0011 00010, quae in superficie
+cylindri posita Z, Θ puncta coniungit [def. 2]. uerum
+eliam ΖΘ lalus figurae ΕΖΗΘ in superficie cylindri
+positum esl3 itaque lalus 001 commune parallelogrammi
+per axem ducti figuraeque ΕΗΖ Θ. demonstrauimus
+aulem, lalus parallelogrammi per axem ducii rectam
+esse [prop. H]; itaque ΘΖ 00010 001. similiter aulem
+eliam ΕΗ 01 ΕΖ, ΗΘ 000100 aequales 01 parallelas
+iunguni; ergo ΕΘ parallelogrammum 001 [Eucl.1,33].
+
+dico, idem parallelogrammo ΤΛ aequiangulum
+esse.
+
+quoniam enim duae 000100 ΔΒ, ΒΖ duabus rectis
+ΜΛ, Α Θ parallelae sunl, 01 quattuor illae 000100
+aequales sunl, etiam ΖΛ, ΜΘ aequales sunl 01
+parallelae propter prop. Ι. quare eliam ΖΘ, ΛΜ
+01 ipsae aequales sunt 01 parallelae [Eucl. Ι, 33].
+uerum eliam ΛΘ, AM parallelae suni. itaque
+[Eucl. XI , 10] angulus A ΘΖ parallelogrammi ΕΘ
+angulo ΓΜΛ parallelogrammi ΓΛ aequalis 001. ergo
+ΕΘ parallelogrammo ΓΛ aequiangulum 001.
+
+ΕΖ m. 1 V, sed obscure3 EZvc, HE p. 17. ΕΖ, ΗΘ]
+000000. 00.00,ΒΖ]ΜΑ,100 masmanna
+21. ΜΘ] ΘΜ p. εἰσι - 23. παράλληλοί] om. 0 (hab. v).
+22. ΖΘ, ΔΜ] ΘΖ, ΜΔ p. αὐταί] αὗται Vp. 26. ἄρα]
+
+ἅραηῖστί Ρ, vad ΕΘ] Halle)⁷ cum Comm, τῷ d 11001001Ὲο.
+τῳ p, τ o.
+
+ 
+

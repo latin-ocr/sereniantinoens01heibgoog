@@ -1,0 +1,39 @@
+DE SECTIONE CYLINDRI. 51
+
+” sectiones eius circulorumque parallelorum sint ΣΤ,
+ΞΟ, Π Ρ, eius autem sectionisque ΕΖΗ communis
+sectio sit MN. quoniam igitur plana parallela ΓΔ, ΡΣ
+a plano ΚΖΛ secantur, communes eorum· sectiones
+parallelae sunt [Eucl XI, lupi ltaque ΚΘ, ΝΞ
+parallelae sunt. erant autem etiam ΘΕ, ΝΜ parallelae3
+quare L K ΘΕ = ΞΝ Μ [Eucl. XI, 10]. et quoniam
+parallelogramma ΡΣ, ΓΛ aequiangula sunt, ut in
+prop. III demonstratum est, erit LEHP= ΕΓΑ,
+hoc est ΣΞΝ = ΕΚ Θ; quare trianguli ΕΚΘ, ΜΞΝ
+similes sunt. itaque [Eucl. VI, 4] ΚΘ : ΘΕ = ΞΝ : N M 3
+quare etiam ΚΘΡ : ΘΕΡ = ΞΝΡ : ΝΜΡ -- ΦΖ2 : ΕΗΡ.
+est autern ΝΞΡ--τ ΦΝ><ΝΖ; nam ΚΖΛ circulus
+est et ΘΖ ad ΚΘ, ΞΝ perpendicularis. ergo, ut
+quadratum alterius diametri ΦΖ ad quadratum
+diametri ΕΗ, ita ΦΝ><ΝΖεΜΝΡ; quod erat
+demonstrandum.
+
+XVII.
+
+si sectionis cylindri diametri sunt coniugatae, et
+fit, ut diametrus sectionis adulteram diametrum, ita
+altera diametrus ad aliam, quaecunque a sectione ad
+diametrum ordinate ducitur, quadrata aequalis erit
+spatio tertiae proportionali adplicato latitudinem
+habenti rectam ab ipsa recta ordinate ducta ad
+sectionem abscisam deficienti spatio simili rectangulo
+a diametro tertiaque proportionali comprehenso.
+
+{tta'l⁹lp⁰„3}}ll‚,12lj⁴⁴dll„²tl21³ ΞΞΡΞΡέἶ
+ng -022 dedssci nonii> 25. irte— 26. clericalia& bis V.
+2Θ. ουτως τῆς τομῆς otior ω.ςο 29. dxcv] darcon Νὴ
+
+scripsi, ἀπ’ cp. τεταγμένως] op, ,ἐετοιγμευηςῑῐᾹιςῇ
+
+ 
+
